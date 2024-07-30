@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Freshlay.Web")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+65a54e0fd396fe4a42165b14a65e7a2564d93e60")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+aad15ce63f4bd13d55bcd6ca66dd485ab736c543")]
 [assembly: System.Reflection.AssemblyProductAttribute("Freshlay.Web")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Freshlay.Web")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

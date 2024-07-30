@@ -7,8 +7,8 @@
   </PropertyGroup>
 
   <PropertyGroup>
-    <OutputPath>./.build/bin</OutputPath>
-    <BaseIntermediateOutputPath>./.build/obj</BaseIntermediateOutputPath>
+    <!-- <OutputPath>./.build/bin</OutputPath>
+    <BaseIntermediateOutputPath>./.build/obj</BaseIntermediateOutputPath> -->
   </PropertyGroup>
 
   <ItemGroup>

@@ -1,0 +1,123 @@
+is_global = true
+build_property.TargetFramework = net8.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = Freshlay.Web
+build_property.RootNamespace = Freshlay.Web
+build_property.ProjectDir = /Users/ian/Projects/Freshlay/Freshlay/src/Freshlay.Web/
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.RazorLangVersion = 8.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = /Users/ian/Projects/Freshlay/Freshlay/src/Freshlay.Web
+build_property._RazorSourceGeneratorDebug = 
+
+[/Users/ian/Projects/Freshlay/Freshlay/src/Freshlay.Web/Components/App.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50cy9BcHAucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/ian/Projects/Freshlay/Freshlay/src/Freshlay.Web/Components/Controls/Categories.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50cy9Db250cm9scy9DYXRlZ29yaWVzLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/ian/Projects/Freshlay/Freshlay/src/Freshlay.Web/Components/Controls/Filters.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50cy9Db250cm9scy9GaWx0ZXJzLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/ian/Projects/Freshlay/Freshlay/src/Freshlay.Web/Components/Controls/LandingNavbar.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50cy9Db250cm9scy9MYW5kaW5nTmF2YmFyLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/ian/Projects/Freshlay/Freshlay/src/Freshlay.Web/Components/Controls/MainNavbar.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50cy9Db250cm9scy9NYWluTmF2YmFyLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/ian/Projects/Freshlay/Freshlay/src/Freshlay.Web/Components/Controls/ProductDetails.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50cy9Db250cm9scy9Qcm9kdWN0RGV0YWlscy5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/ian/Projects/Freshlay/Freshlay/src/Freshlay.Web/Components/Controls/ProductInfo.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50cy9Db250cm9scy9Qcm9kdWN0SW5mby5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/ian/Projects/Freshlay/Freshlay/src/Freshlay.Web/Components/Controls/Products.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50cy9Db250cm9scy9Qcm9kdWN0cy5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/ian/Projects/Freshlay/Freshlay/src/Freshlay.Web/Components/Layout/MainLayout.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50cy9MYXlvdXQvTWFpbkxheW91dC5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/ian/Projects/Freshlay/Freshlay/src/Freshlay.Web/Components/Pages/Dashboard.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50cy9QYWdlcy9EYXNoYm9hcmQucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/ian/Projects/Freshlay/Freshlay/src/Freshlay.Web/Components/Pages/Home.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50cy9QYWdlcy9Ib21lLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/ian/Projects/Freshlay/Freshlay/src/Freshlay.Web/Components/Pages/Login.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50cy9QYWdlcy9Mb2dpbi5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/ian/Projects/Freshlay/Freshlay/src/Freshlay.Web/Components/Routes.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50cy9Sb3V0ZXMucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/ian/Projects/Freshlay/Freshlay/src/Freshlay.Web/Components/Sections/Benefits.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50cy9TZWN0aW9ucy9CZW5lZml0cy5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/ian/Projects/Freshlay/Freshlay/src/Freshlay.Web/Components/Sections/ClientReviews.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50cy9TZWN0aW9ucy9DbGllbnRSZXZpZXdzLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/ian/Projects/Freshlay/Freshlay/src/Freshlay.Web/Components/Sections/Download.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50cy9TZWN0aW9ucy9Eb3dubG9hZC5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/ian/Projects/Freshlay/Freshlay/src/Freshlay.Web/Components/Sections/FAQ/FAQ.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50cy9TZWN0aW9ucy9GQVEvRkFRLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/ian/Projects/Freshlay/Freshlay/src/Freshlay.Web/Components/Sections/FAQ/First.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50cy9TZWN0aW9ucy9GQVEvRmlyc3QucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/ian/Projects/Freshlay/Freshlay/src/Freshlay.Web/Components/Sections/FAQ/Fourth.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50cy9TZWN0aW9ucy9GQVEvRm91cnRoLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/ian/Projects/Freshlay/Freshlay/src/Freshlay.Web/Components/Sections/FAQ/Second.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50cy9TZWN0aW9ucy9GQVEvU2Vjb25kLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/ian/Projects/Freshlay/Freshlay/src/Freshlay.Web/Components/Sections/FAQ/Third.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50cy9TZWN0aW9ucy9GQVEvVGhpcmQucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/ian/Projects/Freshlay/Freshlay/src/Freshlay.Web/Components/Sections/FeaturedProducts.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50cy9TZWN0aW9ucy9GZWF0dXJlZFByb2R1Y3RzLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/ian/Projects/Freshlay/Freshlay/src/Freshlay.Web/Components/Sections/HowItWorks.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50cy9TZWN0aW9ucy9Ib3dJdFdvcmtzLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/ian/Projects/Freshlay/Freshlay/src/Freshlay.Web/Components/Sections/Join.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50cy9TZWN0aW9ucy9Kb2luLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/ian/Projects/Freshlay/Freshlay/src/Freshlay.Web/Components/Sections/Links.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50cy9TZWN0aW9ucy9MaW5rcy5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/ian/Projects/Freshlay/Freshlay/src/Freshlay.Web/Components/_Imports.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50cy9fSW1wb3J0cy5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
