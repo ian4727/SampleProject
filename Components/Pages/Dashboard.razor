@@ -1,0 +1,47 @@
+@page "/dashboard"
+@rendermode InteractiveServer
+
+@using Freshlay.Web.Components.Controls
+
+<div class="px-[40px] md:px-12 pt-[40px] pb-[20px] md:py-12 lg:pb-[100px] xl:py-[80px] xl:px-[80px] h-screen flex flex-col overflow-hidden">
+    <header>
+        <MainNavbar />
+    </header>
+    <main class="flex h-full">
+        <section class="hidden xl:flex h-full flex-col justify-between w-[600px] ">
+            <Categories />
+            <Filters />
+        </section>
+        <section class="xl:w-[1460px]">
+            <Products />
+            <section class="xl:hidden flex xl:h-full xl:flex-col justify-between w-[340px] mt-[20px]">
+                <Categories />
+                <Filters />
+            </section>
+            <ProductInfo />
+        </section>
+    </main>
+</div>
+
+@* @page "/dashboard"
+@rendermode InteractiveServer
+
+@using Freshlay.Web.Components.Controls
+
+<div class="px-[30px] md:px-12 py-[50px] md:py-12 lg:pb-[100px] xl:py-[80px] xl:px-[80px] h-full xl:h-screen flex flex-col">
+    <header>
+        <MainNavbar />
+    </header>
+    <main class="flex h-full">
+        <section class="hidden xl:flex h-full flex-col justify-between w-[600px]">
+            <Categories />
+            <Filters />
+        </section>
+        <section class="w-[1460px] overflow-hidden">
+            <Products />
+            <ProductInfo />
+            
+        </section>
+    </main>
+</div> *@
+

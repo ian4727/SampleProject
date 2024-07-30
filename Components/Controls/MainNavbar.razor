@@ -1,0 +1,44 @@
+<MudNavMenu class="flex justify-between items-center w-full 2xl:pr-[60px] text-[19px] work-sans">
+    <MudNavLink Href="/" Class="w-max">
+        <div class="ml-[-10px]">
+            <MudImage Src="assets/general/logo.svg" Alt="Logo" class="w-[148px] md:w-[280px] lg:w-[250px] xl:w-[252px]"/>
+        </div>
+    </MudNavLink>
+    <MudForm class="hidden xl:flex lg:w-[45%] xl:max-2xl:w-[35%] h-[58px] relative">
+        <MudTextField
+            T="string"
+            Placeholder="Search by product, category or label"
+            Class="bg-[var(--mud-palette-secondary)] !rounded-[10px] w-[500px] h-full shadow-lg pt-[7px] pl-[20px] tracking-widest"
+            Style="color: var(--mud-palette-primary-darken)" />
+        <MudButton Class="w-[55px] h-[55px] xl:w-[58px] xl:h-[58px] bg-[var(--lightgreen-color)] !rounded-[10px] flex justify-center item-center absolute right-[0] bottom-[0] shadow-lg">
+            <div>
+                <MudImage Src="/assets/dashboard/navbar/search.svg" />
+            </div>
+        </MudButton>
+    </MudForm>
+    <div class="flex w-[90px] md:w-[140px] xl:w-[410px] justify-between">
+        <div class="flex w-[170px] h-full items-center">
+            <MudButton class="min-w-[40px] h-[40px] md:min-w-[45px] md:h-[45px] md:w-[45px] lg:min-w-[55px] lg:h-[55px] xl:min-w-[58px] xl:h-[58px] bg-[var(--lightgreen-color)] !rounded-[10px] flex justify-center item-center shadow-lg">
+                <div>
+                    <MudImage Src="/assets/dashboard/navbar/account.svg" Class="w-[12px] md:w-[18px]"/>
+                </div>
+            </MudButton>
+            <div class="hidden xl:flex flex-col w-full">
+                <p class="flex w-full items-end mb-[-10px]">
+                    <MudNavLink Href="/login" Class="w-[150px] mr-[5px]">Log in</MudNavLink>
+                    or
+                    <MudNavLink Href="/login" Class="ml-[-5px]">Sign up</MudNavLink>   
+                </p>
+                <MudNavLink Href="#"><p class="font-[700]">My Account</p></MudNavLink> 
+            </div>
+        </div>
+        <div class="w-[120px] flex items-center justify-between">
+            <MudButton class="min-w-[40px] h-[40px] md:min-w-[45px] md:h-[45px] md:w-[45px] lg:min-w-[55px] lg:h-[55px] xl:min-w-[58px] xl:h-[58px] bg-[var(--lightgreen-color)] !rounded-[10px] flex justify-center item-center !p-0 shadow-lg">
+                <div>
+                    <MudImage Src="/assets/dashboard/navbar/cart.svg" Class="w-[25px] md:w-[30px]" />
+                </div>
+            </MudButton>
+            <p class="hidden xl:block">$0.00</p>
+        </div>  
+    </div>
+</MudNavMenu>

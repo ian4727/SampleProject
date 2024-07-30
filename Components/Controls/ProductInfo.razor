@@ -1,0 +1,85 @@
+<div>
+    <div class="h-[490px] xl:h-[530px] mt-[30px] flex flex-col xl:flex-row justify-between overflow-hidden">
+        <div class="w-[340px] xl:w-[275px] h-[156px] xl:h-full flex xl:flex-col rounded-[18px] shadow-lg">
+            <div class="w-[156px] xl:w-full h-full bg-[var(--mud-palette-secondary)] flex justify-center items-center relative !rounded-[18px]">
+                <div class="absolute top-[10px] left-[10px] xl:top-[15px] xl:left-[15px] bg-[var(--mud-palette-white)] text-[14px] text-center w-[70px] rounded-[5px]">
+                    <p>Promoted</p>
+                </div>
+                <div class="w-[110px] xl:w-[180px]">
+                    <MudImage Src="/assets/products/carrots.png"/>
+                </div>
+            </div>
+            <ProductDetails />
+        </div>
+        <div class="hidden xl:block w-[275px] h-full">
+            <div class="w-full h-[278px] bg-[#FBC600] bg-[url('/assets/dashboard/yellow-bg.svg')] flex justify-center items-center relative rounded-[18px]">
+            </div>
+            <div class="px-[20px] pt-[30px] rounded-[18px] shadow-lg h-[261px]">
+                <p class="text-[22px]">Collect Rewards For Every Dollar You Spend.</p>
+            </div>
+        </div>
+        <div class="w-[340px] xl:w-[275px] h-[156px] xl:h-full flex xl:flex-col rounded-[18px] shadow-lg">
+            <div class="w-[156px] xl:w-full h-full bg-[var(--mud-palette-secondary)] flex justify-center items-center relative !rounded-[18px]">
+                <div class="absolute top-[10px] left-[10px] xl:top-[15px] xl:left-[15px] bg-[var(--mud-palette-white)] text-[14px] text-center w-[70px] rounded-[5px]">
+                    <p>Promoted</p>
+                </div>
+                <div class="xl:hidden w-[110px] xl:w-[180px]">
+                    <MudImage Src="/assets/products/carrots.png"/>
+                </div>
+                <div class="hidden xl:block w-[110px] xl:w-[180px]">
+                    <MudImage Src="/assets/products/lettuce.png"/>
+                </div>
+            </div>
+            <ProductDetails />
+        </div>
+        <div class="w-[340px] xl:w-[275px] h-[156px] xl:h-full flex xl:flex-col rounded-[18px] shadow-lg">
+            <div class="w-[156px] xl:w-full h-full bg-[var(--mud-palette-secondary)] flex justify-center items-center relative !rounded-[18px]">
+                <div class="absolute top-[10px] left-[10px] xl:top-[15px] xl:left-[15px] bg-[var(--mud-palette-white)] text-[14px] text-center w-[70px] rounded-[5px]">
+                    <p>Promoted</p>
+                </div>
+                <div class="xl:hidden w-[110px] xl:w-[180px]">
+                    <MudImage Src="/assets/products/carrots.png"/>
+                </div>
+                <div class="hidden xl:block w-[110px] xl:w-[180px]">
+                    <MudImage Src="/assets/products/avocado.png"/>
+                </div>
+            </div>
+            <ProductDetails />
+        </div>
+        <div class="w-[340px] xl:w-[275px] h-[156px] xl:h-full hidden xl:flex xl:flex-col rounded-[18px] shadow-lg">
+            <div class="w-[156px] xl:w-full h-full bg-[var(--mud-palette-secondary)] flex justify-center items-center relative !rounded-[18px]">
+                <div class="absolute top-[10px] left-[10px] xl:top-[15px] xl:left-[15px] bg-[var(--mud-palette-white)] text-[14px] text-center w-[70px] rounded-[5px]">
+                    <p>Promoted</p>
+                </div>
+                <div class="xl:hidden w-[110px] xl:w-[180px]">
+                    <MudImage Src="/assets/products/carrots.png"/>
+                </div>
+                <div class="hidden xl:block w-[110px] xl:w-[180px]">
+                    <MudImage Src="/assets/products/eggplant.png"/>
+                </div>
+            </div>
+            <ProductDetails />
+        </div>
+    </div>
+    <div class="hidden xl:flex justify-center">
+        <div class="flex flex-col align-center mt-[25px]  w-[250px] rounded-[15px]">
+            <MudPagination
+                Rectangular="true"
+                Variant="Variant.Text"
+                Count="3"
+                Class="bg-[var(--mud-palette-secondary)] py-[10px] rounded-[18px]" />
+        </div>
+    </div>
+    <MudForm class="xl:hidden lg:flex lg:w-[45%] w-[340px] h-[58px] relative mt-[20px]">
+        <MudTextField
+            T="string"
+            Placeholder="Search product..."
+            Class="bg-[var(--mud-palette-secondary)] !rounded-[10px] w-[500px] h-full shadow-lg pt-[7px] pl-[20px] tracking-widest"
+            Style="color: var(--mud-palette-primary-darken)" />
+        <MudButton Class="w-[55px] h-[55px] xl:w-[58px] xl:h-[58px] bg-[var(--lightgreen-color)] !rounded-[10px] flex justify-center item-center absolute right-[0] bottom-[0] shadow-lg">
+            <div>
+                <MudImage Src="/assets/dashboard/navbar/search.svg" />
+            </div>
+        </MudButton>
+    </MudForm>
+</div>
