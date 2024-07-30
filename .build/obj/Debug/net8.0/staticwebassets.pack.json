@@ -17,6 +17,10 @@
       "PackagePath": "buildTransitive\\Freshlay.Web.props"
     },
     {
+      "Id": "/Users/ian/Projects/Freshlay/Freshlay/src/Freshlay.Web/wwwroot/404.html",
+      "PackagePath": "staticwebassets/404.html"
+    },
+    {
       "Id": "/Users/ian/Projects/Freshlay/Freshlay/src/Freshlay.Web/wwwroot/apple.png",
       "PackagePath": "staticwebassets/apple.png"
     },
@@ -343,6 +347,10 @@
     {
       "Id": "/Users/ian/Projects/Freshlay/Freshlay/src/Freshlay.Web/wwwroot/dist/app.bundle.js",
       "PackagePath": "staticwebassets/dist/app.bundle.js"
+    },
+    {
+      "Id": "/Users/ian/Projects/Freshlay/Freshlay/src/Freshlay.Web/wwwroot/index.html",
+      "PackagePath": "staticwebassets/index.html"
     },
     {
       "Id": "/Users/ian/Projects/Freshlay/Freshlay/src/Freshlay.Web/wwwroot/logo.png",

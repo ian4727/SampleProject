@@ -39,3 +39,5 @@
 /Users/ian/Projects/Freshlay/Freshlay/src/Freshlay.Web/.build/obj/Debug/net8.0/Freshlay.Web.pdb
 /Users/ian/Projects/Freshlay/Freshlay/src/Freshlay.Web/.build/obj/Debug/net8.0/Freshlay.Web.genruntimeconfig.cache
 /Users/ian/Projects/Freshlay/Freshlay/src/Freshlay.Web/.build/obj/Debug/net8.0/ref/Freshlay.Web.dll
+/Users/ian/Projects/Freshlay/Freshlay/src/Freshlay.Web/.build/bin/net8.0/docs/package.json
+/Users/ian/Projects/Freshlay/Freshlay/src/Freshlay.Web/.build/bin/net8.0/docs/scripts/tsconfig.json
